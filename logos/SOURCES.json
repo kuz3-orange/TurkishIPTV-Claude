@@ -1,0 +1,54 @@
+{
+  "trt1": {
+    "commons_file": "File:TRT 1 logo (2021-).svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TRT_1_logo_%282021-%29.svg/960px-TRT_1_logo_%282021-%29.svg.png"
+  },
+  "trt2": {
+    "commons_file": "File:TRT 2 logo.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TRT_2_logo.svg/960px-TRT_2_logo.svg.png"
+  },
+  "trtarabi": {
+    "commons_file": "File:TRT Arabi logo.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/TRT_Arabi_logo.svg/960px-TRT_Arabi_logo.svg.png"
+  },
+  "trtavaz": {
+    "commons_file": "File:TRT Avaz logo.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TRT_Avaz_logo.svg/960px-TRT_Avaz_logo.svg.png"
+  },
+  "trtbelgesel": {
+    "commons_file": "File:TRT Belgesel logo (2019-).svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/TRT_Belgesel_logo_%282019-%29.svg/960px-TRT_Belgesel_logo_%282019-%29.svg.png"
+  },
+  "trtcocuk": {
+    "commons_file": "File:TRT Çocuk logo (2021).svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/TRT_%C3%87ocuk_logo_%282021%29.svg/960px-TRT_%C3%87ocuk_logo_%282021%29.svg.png"
+  },
+  "trthaber": {
+    "commons_file": "File:TRT Haber Eylül 2020 Logo.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/960px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png"
+  },
+  "trtkurdi": {
+    "commons_file": "File:TRT Kurdî logo.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png"
+  },
+  "trtmuzik": {
+    "commons_file": "File:TRT Müzik logo.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/TRT_M%C3%BCzik_logo.svg/960px-TRT_M%C3%BCzik_logo.svg.png"
+  },
+  "trtspor": {
+    "commons_file": "File:TRT Spor logo (2022).svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TRT_Spor_logo_%282022%29.svg/960px-TRT_Spor_logo_%282022%29.svg.png"
+  },
+  "trtsporyildiz": {
+    "commons_file": "File:TRT Spor Yıldız Logo.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg/960px-TRT_Spor_Y%C4%B1ld%C4%B1z_Logo.svg.png"
+  },
+  "trtturk": {
+    "commons_file": "File:TRT Türk logo.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/TRT_T%C3%BCrk_logo.svg/960px-TRT_T%C3%BCrk_logo.svg.png"
+  },
+  "trtworld": {
+    "commons_file": "File:TRT World.svg",
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png"
+  }
+}

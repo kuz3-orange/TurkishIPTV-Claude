@@ -1,0 +1,139 @@
+{
+  "epg": "https://iptv-org.github.io/epg/guides/tr.xml",
+  "logo_base": "https://raw.githubusercontent.com/kuz3-orange/TurkishIPTV-Claude/main/logos",
+  "channels": [
+    {
+      "slug": "trt1",
+      "name": "TRT 1",
+      "tvg_id": "TRT1.tr",
+      "lang": "Turkish",
+      "host": "tv-trt1.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trt1hd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trt2",
+      "name": "TRT 2",
+      "tvg_id": "TRT2.tr",
+      "lang": "Turkish",
+      "host": "tv-trt2.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trt2hd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trthaber",
+      "name": "TRT Haber",
+      "tvg_id": "TRTHaber.tr",
+      "lang": "Turkish",
+      "host": "tv-trthaber.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trthaberhd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtspor",
+      "name": "TRT Spor",
+      "tvg_id": "TRTSpor.tr",
+      "lang": "Turkish",
+      "host": "tv-trtspor1.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtspor.medya.trt.com.tr",
+        "tv-trtspor1hd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtsporyildiz",
+      "name": "TRT Spor Yıldız",
+      "tvg_id": "TRTSporYildiz.tr",
+      "lang": "Turkish",
+      "host": "tv-trtspor2.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtsporyildiz.medya.trt.com.tr",
+        "tv-trtspor2hd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtbelgesel",
+      "name": "TRT Belgesel",
+      "tvg_id": "TRTBelgesel.tr",
+      "lang": "Turkish",
+      "host": "tv-trtbelgesel.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtbelgeselhd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtcocuk",
+      "name": "TRT Çocuk",
+      "tvg_id": "TRTCocuk.tr",
+      "lang": "Turkish",
+      "host": "tv-trtcocuk.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtcocukhd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtmuzik",
+      "name": "TRT Müzik",
+      "tvg_id": "TRTMuzik.tr",
+      "lang": "Turkish",
+      "host": "tv-trtmuzik.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtmuzikhd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtavaz",
+      "name": "TRT Avaz",
+      "tvg_id": "TRTAvaz.tr",
+      "lang": "Turkish",
+      "host": "tv-trtavaz.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtavazhd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtturk",
+      "name": "TRT Türk",
+      "tvg_id": "TRTTurk.tr",
+      "lang": "Turkish",
+      "host": "tv-trtturk.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtturkhd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtkurdi",
+      "name": "TRT Kurdî",
+      "tvg_id": "TRTKurdi.tr",
+      "lang": "Kurdish",
+      "host": "tv-trtkurdi.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtkurdihd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtarabi",
+      "name": "TRT Arabi",
+      "tvg_id": "TRTArabi.tr",
+      "lang": "Arabic",
+      "host": "tv-trtarabi.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtarapca.medya.trt.com.tr",
+        "tv-trtarabihd.medya.trt.com.tr"
+      ]
+    },
+    {
+      "slug": "trtworld",
+      "name": "TRT World",
+      "tvg_id": "TRTWorld.tr",
+      "lang": "English",
+      "host": "tv-trtworld.medya.trt.com.tr",
+      "alt_hosts": [
+        "tv-trtworldhd.medya.trt.com.tr"
+      ]
+    }
+  ]
+}
