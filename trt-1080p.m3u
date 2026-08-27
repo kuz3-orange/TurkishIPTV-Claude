@@ -1,0 +1,43 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tr.xml"
+# TRT public channels - locked to 1080p
+# Use this list if your player/box picks a low bitrate on its own, or if you
+# want to avoid the 1440p rendition. Needs ~7 Mbit/s per stream.
+
+#EXTINF:-1 tvg-id="TRT1.tr" tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT 1
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRT2.tr" tvg-name="TRT 2" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT 2
+https://tv-trt2.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTHaber.tr" tvg-name="TRT Haber" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTSporYildiz.tr" tvg-name="TRT Spor Yildiz" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTBelgesel.tr" tvg-name="TRT Belgesel" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTCocuk.tr" tvg-name="TRT Cocuk" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT Çocuk
+https://tv-trtcocuk.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTMuzik.tr" tvg-name="TRT Muzik" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT Müzik
+https://tv-trtmuzik.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTAvaz.tr" tvg-name="TRT Avaz" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTTurk.tr" tvg-name="TRT Turk" tvg-language="Turkish" tvg-country="TR" group-title="TRT",TRT Türk
+https://tv-trtturk.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTKurdi.tr" tvg-name="TRT Kurdi" tvg-language="Kurdish" tvg-country="TR" group-title="TRT",TRT Kurdî
+https://tv-trtkurdi.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" tvg-language="Arabic" tvg-country="TR" group-title="TRT",TRT Arabi
+https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-language="English" tvg-country="TR" group-title="TRT",TRT World
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
