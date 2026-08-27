@@ -64,3 +64,10 @@ geo-blocking, never as death.
 
 Logos come from Wikimedia Commons; `logos/SOURCES.json` records the source file for
 each one.
+
+### Daily automatic check
+
+A scheduled Claude routine ("Daily TRT playlist check") runs at **07:00 Europe/Istanbul
+(04:00 UTC)** every day: it runs `update.py`, investigates anything the script could not
+repair on its own, and pushes the result straight to `main`. If nothing changed, it
+commits nothing. `STATUS.md` shows when the last check actually landed.
